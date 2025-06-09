@@ -1,6 +1,7 @@
 # BrainSpyTeamShallowMind
   
-Team Name: *ShallowMind"
+Team Name: *ShallowMind"  
+
 Members: 
 * Anant Aggarwal
 * Aradhya Goel
